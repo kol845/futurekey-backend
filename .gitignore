@@ -1,0 +1,6 @@
+node_modules/
+notes/
+db.sqlite
+mail_cred.json
+build
+db.sqlite
